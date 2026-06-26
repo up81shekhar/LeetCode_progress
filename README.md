@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/up81shekhar/LeetCode_progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0912-sort-an-array](https://github.com/up81shekhar/LeetCode_progress/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/up81shekhar/LeetCode_progress/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/up81shekhar/LeetCode_progress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->

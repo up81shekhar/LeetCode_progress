@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/up81shekhar/LeetCode_progress/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/up81shekhar/LeetCode_progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/up81shekhar/LeetCode_progress/tree/master/0142-linked-list-cycle-ii) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/up81shekhar/LeetCode_progress/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/up81shekhar/LeetCode_progress/tree/master/0021-merge-two-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/up81shekhar/LeetCode_progress/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/up81shekhar/LeetCode_progress/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->

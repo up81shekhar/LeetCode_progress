@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/up81shekhar/LeetCode_progress/tree/master/0036-valid-sudoku) |
+| [0138-copy-list-with-random-pointer](https://github.com/up81shekhar/LeetCode_progress/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/up81shekhar/LeetCode_progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/up81shekhar/LeetCode_progress/tree/master/0142-linked-list-cycle-ii) |
 ## Matrix
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/up81shekhar/LeetCode_progress/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/up81shekhar/LeetCode_progress/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/up81shekhar/LeetCode_progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/up81shekhar/LeetCode_progress/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/up81shekhar/LeetCode_progress/tree/master/0234-palindrome-linked-list) |
